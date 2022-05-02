@@ -16,4 +16,4 @@ let b = +prompt("Le second numéro?", "");
 
 alert( a + b );
 
-# Notez le plus unaire + avant le prompt. Il convertit immédiatement la valeur en nombre.
+## Notez le plus unaire + avant le prompt. Il convertit immédiatement la valeur en nombre.
